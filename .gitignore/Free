@@ -953,16 +953,6 @@ https://21oy.short.gy/fusotv/csi/playlist.m3u8
 https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTwebR.jpg"group-title="MOVIES THAI",TRUE4U
 https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9me7P.jpg" group-title="MOVIES THAI" ,History True
-https://sport.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg" group-title="MOVIES THAI" ,H2 True
-https://sport.livedoomovie.com:4431/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg" group-title="MOVIES THAI" ,AnimalPlanet
-https://sport.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg" group-title="MOVIES THAI" ,Discovery
-https://sport.livedoomovie.com:4431/DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLeifN.jpg"group-title="MOVIES THAI",True Chinese More 
-https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/16/ClJTwP.jpg" group-title="MOVIES THAI" ,IFC Films Picks
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
@@ -1172,39 +1162,6 @@ https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/38/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI",spotv2
 https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Spottv 1
-https://sport.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Spottv
-https://sport.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Spottv 2
-https://sport.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Bin Sport 1
-https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Bin Sport 2
-https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremHD1
-https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremHD2
-https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremHD3
-https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremHD4
-https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremHD5
-https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesporthd1
-https://sport.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesporthd2
-https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesporthd3
-https://sport.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesport5
-https://sport.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesport6
-https://sport.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Truesport7
-https://sport.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI",epl1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
@@ -1319,7 +1276,7 @@ https://185-198-56-58.liveSPORTSs24.online/uafootballua1.m3u8
 https://46-166-139-70.liveSPORTSs24.online/fooootball2.m3u8      
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="SPORTS",Футбол 2 UA2
 https://185-107-80-245.liveSPORTSs24.online/fooootball2.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TR SPORTS 1 HD
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS",TR SPORTS 1 HD
 http://37.221.122.86:8383/trspor.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",football 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
