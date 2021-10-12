@@ -1325,26 +1325,6 @@ https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnzV2.jpg",B Sports 1 English
-http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnQ1Z.jpg",B Sports 2 English
-http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct8OSk.jpg",B Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXSv7P.jpg",B Sports 1 
-http://sos.moukrasa.xyz/live/918454578/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXYtSb.jpg",B Sports 2 
-http://sos.moukrasa.xyz/live/69854211/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/15/CbnbUg.jpg",B Sports 3
-http://sos.moukrasa.xyz/live/645587700/index.m3u8?
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctvbig.jpg",B Sports 4
-http://sos.moukrasa.xyz/live/9787488847/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvlI2.jpg",B Sports 5
-http://sos.moukrasa.xyz/live/610303030/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvmYP.jpg",B Sports 6
-http://sos.moukrasa.xyz/live/1515000000/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtGf6g.jpg",B Sports 7
-http://sos.moukrasa.xyz/live/791001144/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",World of Freesports
@@ -1394,28 +1374,26 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 1
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 2
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 3
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 1 SD
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/13.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 2 SD 
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/14.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 3 SD
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/15.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 1 512K
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/97.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 2 512K
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/98.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1",BEIN PREMIUM 3 512K
-http://176.57.184.167:25461/live/www.ariptv.tk/2day/99.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnzV2.jpg",B Sports 1 English
+http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnQ1Z.jpg",B Sports 2 English
+http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct8OSk.jpg",B Sports Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXSv7P.jpg",B Sports 1 
+http://sos.moukrasa.xyz/live/918454578/index.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXYtSb.jpg",B Sports 2 
+http://sos.moukrasa.xyz/live/69854211/index.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/15/CbnbUg.jpg",B Sports 3
+http://sos.moukrasa.xyz/live/645587700/index.m3u8?
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctvbig.jpg",B Sports 4
+http://sos.moukrasa.xyz/live/9787488847/index.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvlI2.jpg",B Sports 5
+http://sos.moukrasa.xyz/live/610303030/index.m3u8
+#EXTINF:-1 group-title="BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvmYP.jpg",B Sports 6
+http://sos.moukrasa.xyz/live/1515000000/index.m3u8
+#EXTINF:-1 group-title=BEINSPORT 1" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtGf6g.jpg",B Sports 7
+http://sos.moukrasa.xyz/live/791001144/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEINSPORT 1", Bein sport 1 
 http://sos.moukrasa.xyz/live/69854211/index.m3u8
 
