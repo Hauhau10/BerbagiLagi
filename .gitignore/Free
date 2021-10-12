@@ -22,13 +22,10 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/48265.ts
 #EXTINF:-1 tvg-ID="foxsports506hd.au" tvg-name="AU: FOX SPORTS 506 HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6553.1489225082.png" group-title="Australia",AU: FOX SPORTS 506 HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46541.ts
 #EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="UK - Sport",UK: BT Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8.ts
 #EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="UK - Sport",UK: BT Sport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6.ts
 #EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="https://1.bp.blogspot.com/-NT0JpdM8_Ko/XPexW-fri_I/AAAAAAAAAxE/2_i5Ev0r1BQjPmFB0u-fOs0H2GmDWdb_wCLcBGAs/w1200-h630-p-k-no-nu/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel%255B1%255D-min.png" group-title="UK - Sport",UK: BT Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5547.ts
 #EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="UK - Sport",UK: BT Sport 3 SD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/4954.ts
