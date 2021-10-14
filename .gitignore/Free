@@ -78,22 +78,6 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/682
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Kuwait Sport
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/686
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 1 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 1 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/86
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 2 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 2 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/87
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 3 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 3 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/88
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 4 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 4 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/89
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 5 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 5 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/90
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 6 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 6 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/91
-#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 7 HD" tvg-logo="" group-title="Ssc Sport",AR | SSC 7 HD
-http://mantech-tv.xyz:8888/Beinsport778/beinsport887/92
-
-
 
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" group-title="Australia",AU: Fox Sports 501 FHD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/48272.ts
@@ -1418,38 +1402,6 @@ https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", SPOTTV 1 
-https://sport.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", SPOTTV 
-https://sport.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", SPOTTV 2
-https://sport.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Bin Sport 1
-https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Bin Sport 2
-https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", PremHD1
-https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", PremHD2
-https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", PremHD3
-https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", PremHD4
-https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", PremHD5
-https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesporthd1
-https://sport.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesporthd2
-https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesporthd3
-https://sport.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesport5
-https://sport.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesport6
-https://sport.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI 2", Truesport7
-https://sport.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 
 
 
