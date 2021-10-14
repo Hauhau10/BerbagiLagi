@@ -1,11 +1,19 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Fashion HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Live tv
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",All sports tv hd
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",movie channel
 https://stream.allsprk.tv/live/8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Live fight movie tv Hd
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Wwe tv HD
-https://e202-ts.cdn.bg/b1b/fls/b1btv.stream/chunklist.m3u8
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",Fight tv HD
 https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/chunklist_w163487451.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT TES",5 sports tv hd
@@ -196,7 +204,7 @@ http://bosstr.net:80/live/cat54/DpbYpXOhHn/27084.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 3
 http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
-https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch02/playlist.m3u8
+http://sos.moukrasa.xyz/live/645587700/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch01/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 6
@@ -875,11 +883,11 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Tvo kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Baby TV
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+https://sub2.neetball.net/live/neet.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Kids TV
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", CBeebies
