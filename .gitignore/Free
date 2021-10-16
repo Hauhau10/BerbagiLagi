@@ -674,8 +674,6 @@ https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RTV" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",RTV
 http://122.248.43.138:1935/ch11/myStream/live.m3u8
